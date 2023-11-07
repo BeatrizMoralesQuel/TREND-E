@@ -1,27 +1,27 @@
 # TREND-E: Empowering the Fashion Industry with Instagram Trends
 
-# Project Overview
+## Project Overview
 
 This project centers around an in-depth analysis of products sold by Asos, comparing them to prevailing fashion trends on the popular social platform, Instagram.
 
-# Objective
+## Objective
 
 Our primary goal is to discern and leverage fashion trends prevalent on Instagram, enabling us to incorporate them into clothing selection or production processes through a cutting-edge "trendy" recommender program/application.
 
-# Motivation and Purpose
+## Motivation and Purpose
 
 Historically, fashion companies relied on trendsetters and globe-trotting trend hunters to guide their production. However, in recent times, data-driven decision-making has revolutionized the fashion landscape.
 
 I aspire for my findings, ideas, and insights to empower other companies to grasp the potential of this innovative production strategy.
 
-# Data Sources
+## Data Sources
 
 This project draws data from two key sources:
 
 - **Instagram** using scraping techniques, we harvested relevant hashtags and quantified their usage.
 
-- **Asos** E-Commerce Dataset, accessible on **Kaggle**, forms the core of the project's analysis.
-(https://www.kaggle.com/datasets/trainingdatapro/asos-e-commerce-dataset-30845-products)
+- [**Asos** E-Commerce Dataset](https://www.kaggle.com/datasets/trainingdatapro/asos-e-commerce-dataset-30845-products), accessible on **Kaggle**, forms the core of the project's analysis.
+
 
 # Methodology and Code
 
